@@ -3,6 +3,7 @@ Hours
 
 [![Build Status](https://travis-ci.org/DefactoSoftware/Hours.svg?branch=master)](https://travis-ci.org/DefactoSoftware/Hours)
 [![Code Climate](https://codeclimate.com/github/DefactoSoftware/Hours/badges/gpa.svg)](https://codeclimate.com/github/DefactoSoftware/Hours)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/DefactoSoftware/Hours/tree/deploy-button)
 
 Hours is a dead simple project based time tracking application that we use
 for internal time-tracking. It allows users to register how many hours they've
